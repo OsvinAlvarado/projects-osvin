@@ -4,3 +4,8 @@
 
 
 Este es el repositorio de las clases impartidas durante el trimestre.
+
+### TEMAS
+-Javascript
+-HTML
+-CSS
